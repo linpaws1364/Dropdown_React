@@ -1,0 +1,61 @@
+/* style for body of the page */
+body{
+    font-family: 'Source Code Pro', monospace !important;
+    background-color: #850E35;
+}
+
+/* style for dropdown button */
+.dropbtn {
+    font-family: 'Source Code Pro', monospace !important;
+    background-color: #EE6983;
+    width: 180px;
+    color: black;
+    padding: 16px;
+    font-size: 22px;
+    border: none;
+}
+
+/* styles for all elements in page */
+.dropdown {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* style for heading of page  */
+.dropdown h1{
+    color: aliceblue;
+}
+
+/* style for selection result  */
+.dropdown h3{
+    color: aliceblue;
+}
+
+/* style for list background */
+.dropdown-content {
+    display: none;
+    background-color: #FFC4C4;
+    width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+}
+
+/* style for list text  */
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+/* style for list text hover  */
+.dropdown-content a:hover {
+    background-color: #ddd;
+}
+
+/* style for button hover  */
+.dropdown:hover .dropbtn {
+    background-color: #16213E;
+    color: #ddd;
+}
