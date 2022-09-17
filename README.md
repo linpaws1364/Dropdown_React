@@ -2,7 +2,13 @@
 
 Welcome to the project, please use the following link to access the website - https://swapnilroy1364.netlify.app/
 
-https://www.awesomescreenshot.com/image/32516430?key=85ad8fddfaec40d95bfb03e16b9a7ae7
+# Sample Screenshots
+
+![DropDown Project](https://user-images.githubusercontent.com/101203567/190877075-ac6ee97c-aac7-42d2-8217-6a34abd8c010.png)
+
+![DropDown Project (1)](https://user-images.githubusercontent.com/101203567/190877067-342d5725-ef50-474e-ba9b-4d7aecfd2cd2.png)
+
+![DropDown Project (2)](https://user-images.githubusercontent.com/101203567/190877108-3102667b-752e-45b0-8c68-1eac7e40888a.png)
 
 # Getting Started with Create React App
 
